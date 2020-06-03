@@ -17,7 +17,9 @@ https://github.com/SmithVyne/Ruby-web-scraper.git
 * Start game
 ```
 ruby bin/scraper.rb
-
+```
+* Output
+```
 Ranks       Shoe Name
 --------------------
 94.8      Air Max 97
