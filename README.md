@@ -1,5 +1,5 @@
 
-<h1 align="center">Top Ten Nike Air Max's on the internet - web scraper</h1>
+<h1 align="center">Top Ten Nike Air Max's - web scraper</h1>
 
 ## Built With
 - Ruby version 2.7.0
