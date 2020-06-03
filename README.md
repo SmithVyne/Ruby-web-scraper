@@ -5,8 +5,8 @@
 - Ruby version 2.7.0
 
 ## About The Project
-I built a web scraper that scrapes the top then Nike Air Max's from this website [here](https://www.walkjogrun.net/best-nike-air-max-shoes-reviewed/)
-The web scraper displays all the shoes on  the webpage. Read 'Getting Started' below for how to use this scraper:
+I built a web scraper that scrapes the top ten Nike Air Max's from this website [here](https://www.walkjogrun.net/best-nike-air-max-shoes-reviewed/)
+The web scraper displays all the shoes on the webpage. Read 'Getting Started' below for how to use this scraper:
 
 ## Get Started
 
